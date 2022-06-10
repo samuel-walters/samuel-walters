@@ -29,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C#" **alt="C#" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="50" height="50"/>
@@ -36,4 +37,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Terraform" **alt="Terraform" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="50" height="50"/>
+</div>
+
+### :fire: My Stats :
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=samuel-walters&theme=dark&background=000000" title="Streak" **alt="Streak" width="495" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-walters&layout=compact&theme=vision-friendly-dark" title="Languages" **alt="Languages" width="495" height="195"/>             
 </div>

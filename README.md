@@ -40,7 +40,6 @@
 </div>
 
 ### :fire: My Stats :
-<div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=samuel-walters&theme=dark&background=000000" title="Streak" **alt="Streak" width="495" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-walters&layout=compact&theme=vision-friendly-dark" title="Languages" **alt="Languages" width="495" height="195"/>             
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuel-walters&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-walters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
